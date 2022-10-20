@@ -1,1 +1,1 @@
-# wow-private-realms-lists
+# wow-private-realms-list
