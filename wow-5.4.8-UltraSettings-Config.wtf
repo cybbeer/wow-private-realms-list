@@ -1,5 +1,5 @@
 #Realms
-SET realmlist "logon.stormforge.gg"
+#SET realmlist "logon.stormforge.gg"
 #SET realmlist hu.logon.tauri.hu
 
 SET locale "enUS"
