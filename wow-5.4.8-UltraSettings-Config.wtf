@@ -1,6 +1,7 @@
 #Realms
 #SET realmlist "logon.stormforge.gg"
 #SET realmlist hu.logon.tauri.hu
+#SET realmlist logon.warmane.com
 
 SET locale "enUS"
 SET installLocale "enUS"
