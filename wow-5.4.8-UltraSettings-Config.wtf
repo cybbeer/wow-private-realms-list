@@ -1,4 +1,7 @@
+#Realms
 SET realmlist "logon.stormforge.gg"
+#SET realmlist hu.logon.tauri.hu
+
 SET locale "enUS"
 SET installLocale "enUS"
 SET hwDetect "0"
