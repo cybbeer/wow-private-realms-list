@@ -1,0 +1,3 @@
+# TBC 2.4.3 reamlist
+
+#set realmlist logon.smolderforge.com
